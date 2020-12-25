@@ -1,1 +1,1 @@
-# Project
+#  Clothing Image Classifier
